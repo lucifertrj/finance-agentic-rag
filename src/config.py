@@ -22,4 +22,3 @@ LLM_MODEL = "gpt-4o-mini"
 SUMMARIZER_MODEL = "sshleifer/distilbart-cnn-12-6"
 TAG_GENERATOR_MODEL = "gemini-2.5-flash-lite"
 DATA_PATH = "data"
-
