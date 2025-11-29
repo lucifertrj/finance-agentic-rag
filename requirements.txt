@@ -1,0 +1,14 @@
+langgraph
+langchain-openai==1.0.2
+langchain-community
+weave
+qdrant_client
+fastembed
+pypdfium2
+tavily-python
+python-dotenv
+torch
+transformers
+google-genai
+pydantic
+
